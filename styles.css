@@ -1,4 +1,3 @@
-/* Reset mặc định */
 * {
     margin: 0;
     padding: 0;
@@ -6,14 +5,12 @@
     font-family: Arial, sans-serif;
 }
 
-/* Toàn trang */
 body {
     background: #f4f6f9;
     color: #333;
     line-height: 1.6;
 }
 
-/* Header */
 header {
     text-align: center;
     background: #2c3e50;
@@ -31,7 +28,6 @@ header p {
     font-style: italic;
 }
 
-/* Bố cục chính */
 #left {
     width: 25%;
     float: left;
@@ -62,7 +58,6 @@ header p {
     padding: 5px 0;
 }
 
-/* Nội dung chính */
 #content {
     width: 75%;
     float: left;
@@ -101,7 +96,6 @@ header p {
     background: #1f5f8d;
 }
 
-/* Footer */
 footer {
     clear: both;
     text-align: center;
